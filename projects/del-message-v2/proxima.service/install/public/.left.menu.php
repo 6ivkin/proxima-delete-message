@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Модули", 
+		"/proxima/service/modules/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Аннотации", 
+		"/proxima/service/annotation/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+    Array(
+        "Обязательные поля",
+        "/proxima/service/require_fields/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Очистка",
+        "/proxima/service/repair/",
+        Array(),
+        Array(),
+        ""
+    )
+);
+?>
